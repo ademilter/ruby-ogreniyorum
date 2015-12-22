@@ -4,7 +4,7 @@ Ruby dilini öğrenirken aldığım ders notlarını bölüm bölüm paylaşmaya
 
 > Meslek Lisesi - **Makina Ressamlığı** bölümünden mezun, 
 hiç bir mühendislik ve programlama dili eğitimi almamış biri olarak,
-hem object-oriented mantığını anlamaya hem de bu mantığı ruby diliyle hayata geçirmeye çalışacağım.
+hem object-oriented mantığını anlamaya hem de bu mantığı ruby diliyle hayata geçirmeye çalışacağım. Hayatımın son beş senesini arayüz tasarımı yaparak ve kodlayarak(html,css ve orta düzey js) geçirdim.
 
 Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur](https://github.com/vigo) abime sonsuz teşekkürler :heart:
 
