@@ -20,10 +20,10 @@ nesnelerle iki şekilde iletişime geçeriz.
 
 
 ## Ders Notları
--
+.
 
 ##### Homebrew
--
+.
 
 ##### TextMate
 Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
