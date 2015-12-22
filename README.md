@@ -14,8 +14,9 @@ Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur](https://git
 
 nesnelerle iki şekilde iletişime geçeriz.
 
-1. state(durum) - bilgi ver
-2. method(metod) - yap[tır]
+1. state - bilgi ver
+2. method - yap[tır]
+  - başka bir nesneyle iletişime geçebilir
 
 
 ## Ders Notları
@@ -25,10 +26,10 @@ nesnelerle iki şekilde iletişime geçeriz.
 -
 
 ##### TextMate
-Yazacağımız kodları çalıştırmak için kullanacağımız Text Editör.
+Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
 
 ### Kodlar
-1. [Ders](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-1/ne-ogrendik.rb)
+1. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-1/ne-ogrendik.rb)
   - Yorum
     - Tek satır
     - Çok satır
