@@ -21,9 +21,9 @@ alanı
 name = "Adem"
 age = 29
 
-puts "#{name}, #{age} yaşında. seneye #{age + 1} olacak"
+puts "#{name}, #{age} yaşında. seneye #{age + 1} olacak."
 # veya
-puts "%s, %s yaşında" % [name, age]
+puts "%s, %s yaşında. seneye %s olacak." % [name, age, (age + 1)]
 
 
 # //////////////////////////////////////////////
@@ -47,7 +47,7 @@ def method_name2(arg1, arg2)
   arg1 + arg2
 end
 
-puts method_name2 2, 5
+puts method_name2(2, 5)
 
 
 # //////////////////////////////////////////////
