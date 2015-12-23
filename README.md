@@ -7,7 +7,7 @@ hem object-oriented mantığını anlamaya hem de bu mantığı ruby diliyle hay
 
 Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur](https://github.com/vigo) abime sonsuz teşekkürler :heart:
 
-**Bilgi:** Ruby ile başlamamın nedeni, nesneye dayalı programlama ([oop](https://tr.wikipedia.org/wiki/Nesne_y%C3%B6nelimli_programlama)) öğrenmeye çalışırken en uygun dilin ruby olacağını düşünüp bu şekilde ilerlemeye karar vermem.
+**Bilgi:** Ruby ile başlamamın nedeni, nesneye dayalı programlama ([oop](https://tr.wikipedia.org/wiki/Nesne_y%C3%B6nelimli_programlama)) öğrenmeye çalışırken en uygun dilin ruby olacağını düşünüp bu şekilde ilerlemeye karar vermem oldu.
 
 ## Object Oriented Programming (OOP)
 Bu konunun mimari olan [Alan Kays'ın kendi tanımı](http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented)yla başlamak istiyorum;
@@ -26,9 +26,6 @@ Bu konunun mimari olan [Alan Kays'ın kendi tanımı](http://c2.com/cgi/wiki?Ala
 ## Ders Notları
 .
 
-##### Homebrew
-.
-
 ##### TextMate
 Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
 
@@ -43,3 +40,7 @@ Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
   - Metod
     - Argüman almayan
     - Argüman alan
+2. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-2/ne-ogrendik.rb)
+  - Array
+  - Hash
+  - Example
