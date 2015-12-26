@@ -44,3 +44,12 @@ Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
   - Array
   - Hash
   - Example
+3. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-3/ne-ogrendik.rb)
+  - If & Unles
+  - While & Until
+  - Switch Case
+  - Range
+
+
+### Testler
+1.  [Test](https://github.com/ademilter/ruby-ogreniyorum/blob/master/test-1.rb)
