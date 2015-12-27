@@ -57,3 +57,17 @@ Neden TextMate olduğunu aşağıdaki video anlatıyor;
 
 ### Testler
 1.  [Test](https://github.com/ademilter/ruby-ogreniyorum/blob/master/test-1.rb)
+
+
+### Kaynaklar
+- Türkçe
+  - [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
+  - [AB2014 - Ruby101](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
+  - [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
+  - [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+  - [Ruby Türkçe Resmi Site](https://www.ruby-lang.org/tr/)
+- İngilizce
+  - [Learn to Program](https://pine.fm/LearnToProgram/)
+  - [Try Ruby (web app)](http://tryruby.org/levels/1/challenges/0)
+  - [Ruby - Core](http://ruby-doc.org/core-2.3.0/)
+  - [Ruby Tutorial](http://rubylearning.com/)
