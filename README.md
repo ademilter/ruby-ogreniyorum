@@ -5,7 +5,7 @@ Ruby dilini öğrenirken aldığım ders notlarını bölüm bölüm paylaşmaya
 hiç bir mühendislik ve programlama dili eğitimi almamış biri olarak,
 hem object-oriented mantığını anlamaya hem de bu mantığı ruby diliyle hayata geçirmeye çalışacağım. Hayatımın son beş senesini arayüz tasarımı yaparak ve kodlayarak(html,css ve orta düzey js) geçirdim.
 
-Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur](https://github.com/vigo) abime sonsuz teşekkürler :heart:
+Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur (vigo)](https://github.com/vigo) abime sonsuz teşekkürler :heart:
 
 **Dipnot:** Ruby ile başlamamın nedeni, nesneye dayalı programlama ([oop](https://tr.wikipedia.org/wiki/Nesne_y%C3%B6nelimli_programlama)) öğrenmeye çalışırken en uygun dilin ruby olacağını düşünüp bu şekilde ilerlemeye karar vermem oldu.
 
@@ -19,12 +19,12 @@ Bu konunun mimari olan [Alan Kays'ın kendi tanımı](http://c2.com/cgi/wiki?Ala
 5. Ayni sınıfın örnegi olan nesneler, aynı işleri yapabilir.
 6. Sınıflar, kalıtlama hiyerarşisi adı verilen tek root'lu bir agaç yoluyla organize edilirler.
 
-#### Benim anladığım
-[gerçek dünyadan örnek verilecek]
 
 
 ## Ders Notları
-.
+Uğur abi her gün düzenli olarak uzak masaüstü bağlantısı ile günlük ders anlatıyor ve yapmam gereken ufak ödevler veriyor.
+Dersleri incelerken "**code**" ve **ne-ogrendik** adında iki farklı dosya göreceksiniz. **code** olan dosyadan çok bişey anlamayabilirsiniz (belki de hiç bir şey) gayet normal. Bu kodlar canlı anlatım sırasında hızlıca yazılmış ve geçilmiş kodlardır. Ders bittikten sonra bu kodların üzerinden geçip, temize yani **ne-ogrendik** sayfasına aktarıyorum. **ne-ogrendik** sayfalarına bakarak neler işlediğimize bakabilir, çok daha rahat anlayabilirsiniz. 
+Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
 Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
