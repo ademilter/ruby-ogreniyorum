@@ -27,7 +27,7 @@ Dersleri incelerken "**code**" ve **ne-ogrendik** adında iki farklı dosya gör
 Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
-Neden TextMate olduğunu aşağıdaki gif dosyası anlatıyor;
+Neden TextMate olduğunu aşağıdaki video anlatıyor;
 
 [![](http://d.pr/i/1fhos+)](http://d.pr/v/elQY)
 
