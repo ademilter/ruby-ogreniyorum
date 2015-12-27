@@ -27,7 +27,9 @@ Dersleri incelerken "**code**" ve **ne-ogrendik** adında iki farklı dosya gör
 Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
-Yazdığımız kodları çalıştırmak için kullandığımız Text Editör.
+Neden TextMate olduğunu aşağıdaki gif dosyası anlatıyor;
+
+[![](http://d.pr/i/1fhos+)](http://d.pr/v/elQY)
 
 ### Kodlar
 1. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-1/ne-ogrendik.rb)
