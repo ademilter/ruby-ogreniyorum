@@ -51,6 +51,8 @@ Neden TextMate olduğunu aşağıdaki video anlatıyor;
   - While & Until
   - Switch Case
   - Range
+4. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-4/ne-ogrendik.rb)
+  - String (derinlemesine bakış)
 
 
 ### Testler
