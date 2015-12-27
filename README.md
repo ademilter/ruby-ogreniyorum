@@ -27,9 +27,12 @@ Dersleri incelerken **code** ve **ne-ogrendik** adında iki farklı dosya görec
 Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
-Tarayıcı konsolu üzerinden js yazıp çalıştırmak ve sonucu direkt görmek ne kadar basitse, TextMate ile ruby yazmak ve sonucu anında görmek bu kadar basit. Üstelik inline olarak :sunglasses: [+Bonus](http://ugur.ozyilmazel.com/blog/2015/04/13/textmate-ve-interaktif-giris/)
+Tarayıcı konsolu üzerinden js yazıp çalıştırmak ve sonucu direkt görmek ne kadar basitse, TextMate ile ruby yazmak ve sonucu anında görmek bu kadar basit. Üstelik inline olarak :sunglasses: (aşağıdaki görsele tıklayıp videoya bakabilirsiniz)
 
 [![](http://d.pr/i/1fhos+)](http://d.pr/v/elQY)
+
+**Bonus:** [TextMate ve İnteraktif Giriş](http://ugur.ozyilmazel.com/blog/2015/04/13/textmate-ve-interaktif-giris/)
+
 
 
 ### Kodlar
