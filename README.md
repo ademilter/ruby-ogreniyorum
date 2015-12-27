@@ -71,3 +71,10 @@ Neden TextMate olduğunu aşağıdaki video anlatıyor;
   - [Try Ruby (web app)](http://tryruby.org/levels/1/challenges/0)
   - [Ruby - Core](http://ruby-doc.org/core-2.3.0/)
   - [Ruby Tutorial](http://rubylearning.com/)
+  - [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+  - [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
+  - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+  - [I Love Ruby](https://www.dropbox.com/s/ox1neltjz7cghmd/ilr2015.pdf) - ebook
+  - [Practicing Ruby](https://practicingruby.com/)
+  - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
+  - [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
