@@ -7,7 +7,7 @@ hem object-oriented mantığını anlamaya hem de bu mantığı ruby diliyle hay
 
 Bu süreçte, engin bilgi ve tecrübesiyle bana yardım eden [Uğur (vigo)](https://github.com/vigo) abime sonsuz teşekkürler :heart:
 
-**Dipnot:** Ruby ile başlamamın nedeni, nesneye dayalı programlama ([oop](https://tr.wikipedia.org/wiki/Nesne_y%C3%B6nelimli_programlama)) öğrenmeye çalışırken en uygun dilin ruby olacağını düşünüp bu şekilde ilerlemeye karar vermem oldu.
+**Dipnot:** Ruby ile başlamamın nedeni, nesneye dayalı programlama ([OOP](https://tr.wikipedia.org/wiki/Nesne_y%C3%B6nelimli_programlama)) öğrenmeye çalışırken en uygun dilin ruby olacağını düşünüp bu şekilde ilerlemeye karar vermem oldu.
 
 ## Object Oriented Programming (OOP)
 Bu konunun mimari olan [Alan Kays'ın kendi tanımı](http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented)yla başlamak istiyorum;
@@ -27,9 +27,10 @@ Dersleri incelerken **code** ve **ne-ogrendik** adında iki farklı dosya görec
 Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
-Neden TextMate olduğunu aşağıdaki video anlatıyor;
+Tarayıcı konsolu üzerinden js yazıp çalıştırmak ve sonucu direkt görmek ne kadar basitse, TextMate ile ruby yazmak ve sonucu anında görmek bu kadar basit. Üstelik inline olarak :sunglasses: [+Bonus](http://ugur.ozyilmazel.com/blog/2015/04/13/textmate-ve-interaktif-giris/)
 
 [![](http://d.pr/i/1fhos+)](http://d.pr/v/elQY)
+
 
 ### Kodlar
 1. [Ders Kodları](https://github.com/ademilter/ruby-ogreniyorum/blob/master/ders-1/ne-ogrendik.rb)
