@@ -23,7 +23,7 @@ Bu konunun mimari olan [Alan Kays'ın kendi tanımı](http://c2.com/cgi/wiki?Ala
 
 ## Ders Notları
 Uğur abi her gün düzenli olarak uzak masaüstü bağlantısı ile günlük ders anlatıyor ve yapmam gereken ufak ödevler veriyor.
-Dersleri incelerken "**code**" ve **ne-ogrendik** adında iki farklı dosya göreceksiniz. **code** olan dosyadan çok bişey anlamayabilirsiniz (belki de hiç bir şey) gayet normal. Bu kodlar canlı anlatım sırasında hızlıca yazılmış ve geçilmiş kodlardır. Ders bittikten sonra bu kodların üzerinden geçip, temize yani **ne-ogrendik** sayfasına aktarıyorum. **ne-ogrendik** sayfalarına bakarak neler işlediğimize bakabilir, çok daha rahat anlayabilirsiniz. 
+Dersleri incelerken **code** ve **ne-ogrendik** adında iki farklı dosya göreceksiniz. **code** olan dosyadan çok bişey anlamayabilirsiniz (belki de hiç bir şey) gayet normal. Bu kodlar canlı anlatım sırasında hızlıca yazılmış ve geçilmiş kodlardır. Ders bittikten sonra bu kodların üzerinden geçip, temize yani **ne-ogrendik** sayfasına aktarıyorum. **ne-ogrendik** sayfalarına bakarak neler işlediğimize bakabilir, çok daha rahat anlayabilirsiniz. 
 Bu kodları çalıştırabilmek için TextMate başlığını inceleyin.
 
 ##### TextMate
