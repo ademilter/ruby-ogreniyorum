@@ -61,6 +61,7 @@ Tarayıcı konsolu üzerinden js yazıp çalıştırmak ve sonucu direkt görmek
 
 ### Testler
 1.  [Test](https://github.com/ademilter/ruby-ogreniyorum/blob/master/test-1.rb)
+2.  [Test](https://github.com/ademilter/ruby-ogreniyorum/blob/master/test-2.rb)
 
 
 ### Kaynaklar
