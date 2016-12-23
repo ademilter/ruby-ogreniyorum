@@ -31,7 +31,7 @@ Tarayıcı konsolu üzerinden js yazıp çalıştırmak ve sonucu direkt görmek
 
 [![](http://d.pr/i/1fhos+)](http://d.pr/v/elQY)
 
-**Bonus:** [TextMate ve İnteraktif Giriş](http://ugur.ozyilmazel.com/blog/2015/04/13/textmate-ve-interaktif-giris/)
+**Bonus:** [TextMate ve İnteraktif Giriş](http://ugur.ozyilmazel.com/blog/tr/2015/04/13/textmate-ve-interaktif-giris/)
 
 
 
